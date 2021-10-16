@@ -93,11 +93,23 @@ body{
     100% {opacity: 1}
 }
 
-/*@media (max-width: 420px) {*/
-/*    .slider-wrap {*/
-/*        height: 70vh;*/
-/*    }*/
-/*    .slider-info-and-dots {*/
-/*        flex-direction: column;*/
-/*    }*/
-/*}*/
+@media (max-width: 425px) {
+    .container {
+         text-align: start;
+    }
+    .slider-wrap {
+        height: 70vh;
+    }
+    .slider-info-and-dots {
+        flex-direction: column;
+    }
+    .slider-info-and-dots {
+        flex-direction: column-reverse;
+    }
+    .phase {
+        font-size: 25px;
+    }
+    .slider-info {
+        align-self: flex-start;
+    }
+}
