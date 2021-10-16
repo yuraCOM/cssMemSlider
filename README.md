@@ -1,3 +1,3 @@
 # cssMemSlider
 
-https://yuracom.github.io/cssMemSlider/cssMemSlider/index.html
+https://yuracom.github.io/cssMemSlider/cssMemSlider/
