@@ -22,6 +22,7 @@ body{
     height: 100%;
     background-color: black;
     overflow: hidden;
+    padding: 0 15px;
 }
 .slider img{
     width: 100%;
